@@ -1,0 +1,1 @@
+import{r as o,j as a}from"./index-BjU6c62x.js";import{G as e}from"./Graph-BhfjUD1p.js";import{u as m}from"./shapes-DfAbu_c8.js";const n=t=>{const r=o.useRef(null),{w:s}=m(r);return a.jsx("div",{className:"chart-card",ref:r,children:s>0&&a.jsx(e,{...t,w:Math.max(240,s-12)})})};export{n as G};
